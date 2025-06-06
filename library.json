@@ -14,6 +14,11 @@
     }
   ],
   "license": "MIT",
+  "dependencies": {
+    "adafruit/Adafruit PWM Servo Driver Library": "^3.0.2"
+  },
   "frameworks": ["arduino"],
   "platforms": ["atmelavr", "espressif32"]
 }
+
+ 
