@@ -1,6 +1,6 @@
 // Should remove in the feature
+
 #include "robo.h"
-#include "pins.h"
 #include "configs.h"
 #include <Arduino.h>
 
