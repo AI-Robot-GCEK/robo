@@ -1,2 +1,2 @@
 # robo
-Robo C++ Lib
+A custom library for 17 Servo Humanoid Robot
